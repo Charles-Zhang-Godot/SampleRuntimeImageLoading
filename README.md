@@ -1,3 +1,5 @@
+[Demo Video](./doc/Demo.mp4)
+
 # Sample - Runtime Image Loading
 
 This demo examines loading image from runtime from different sources:
